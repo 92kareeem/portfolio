@@ -43,3 +43,16 @@ Welcome to my personal portfolio website! This platform is designed to showcase 
 
 
 ---
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+## 📬 Contact
+
+📧 syedabdulkareemahmed@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/92kareem)
+💻 [GitHub](https://wwww.github.com/92kareeem)
