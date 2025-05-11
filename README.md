@@ -1,6 +1,6 @@
 # Syed Abdul Kareem Ahmed – Personal Portfolio 🚀
 
-Welcome to my personal portfolio website! This platform is designed to showcase my skills, experience, and projects, along with a live news feed that brings the latest in tech and AI right to your screen.
+Welcome to my personal portfolio website! This platform is designed to showcase my skills, experience, and projects, along with a live news feed that brings the latest in tech and AI right to your screen. 
 
 🌐 **Live Site:** [syedabdulkareemahmed.z30.web.core.windows.net](https://syedabdulkareemahmed.z30.web.core.windows.net/)
 
